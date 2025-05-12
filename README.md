@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 🛠️ I’m currently working on a full-stack healthcare portal to connect patients, doctors, and labs using React, Node.js, and SQL.<br>🤝 I’m looking to collaborate on innovative web apps and real-world React projects.<br>🙌 I’m looking for help with best practices in React.js and scalable backend integration.<br>🌱 I’m currently learning React.js to build dynamic and responsive user interfaces.<br>💬 Ask me about full-stack development, REST APIs, or competitive programming.<br>⚡ Fun fact: I started coding just for fun, and now I’m diving deep into real-world web development with React!<br><br>
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditya.supagyk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-raj-44b375259) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:araj15397@gmail.com) 
 
