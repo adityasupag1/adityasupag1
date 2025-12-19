@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 💬 Ask me about full-stack development, REST APIs, backend architecture, or competitive programming.
 <br>
 ⚡ Fun fact: I started coding out of curiosity, and today I’m building real-world applications used in practical domains like healthcare.
-🛠️ I’m currently working on a full-stack healthcare portal to connect patients, doctors, and labs using React, Node.js, and SQL.<br>🤝 I’m looking to collaborate on innovative web apps and real-world React projects.<br>🙌 I’m looking for help with best practices in React.js and scalable backend integration.<br>🌱 I’m currently learning React.js to build dynamic and responsive user interfaces.<br>💬 Ask me about full-stack development, REST APIs, or competitive programming.<br>⚡ Fun fact: I started coding just for fun, and now I’m diving deep into real-world web development with React!<br><br>
-
+<br><br>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
