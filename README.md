@@ -9,10 +9,22 @@ I build reliable software, reproducible development environments, and evaluation
 - **Python engineering:** CLI tools, validation, testing, and automation
 - **AI evaluation:** deterministic task evaluation and behavior-based checks
 - **Developer infrastructure:** Docker, GitHub Actions, Linux/Unix, and reproducible environments
-- **Web development:** JavaScript, React, Node.js, and REST-style applications
+- **Backend systems:** FastAPI, REST APIs, PostgreSQL, Node.js, and Express
+- **Web development:** JavaScript, React, and responsive application development
 - **Problem solving:** debugging, edge-case analysis, test design, and data structures
 
-## Featured Engineering Project
+## Featured Engineering Projects
+
+### [LLM-Powered Query Interface](https://github.com/adityasupag1/llm-powered-query-interface)
+
+A production-style FastAPI service that converts natural-language questions into validated, read-only PostgreSQL queries.
+
+- runtime PostgreSQL schema introspection and schema-aware LLM prompts
+- SQL AST validation, table/column checks, and result-limit enforcement
+- read-only transactions and database statement timeouts
+- deterministic local provider plus OpenAI-compatible provider support
+- live PostgreSQL integration tests and Docker build validation in CI
+- Python 3.11, 3.12, and 3.13 matrix testing
 
 ### [Agent Evaluation Lab](https://github.com/adityasupag1/agent-evaluation-lab)
 
@@ -33,7 +45,7 @@ I'm interested in open-source engineering, developer tooling, backend systems, A
 ## Tech Stack
 
 **Languages:** Python • C++ • JavaScript • Java  
-**Web:** React • Node.js • Express • REST APIs • SQL • MongoDB  
+**Backend & Web:** FastAPI • PostgreSQL • React • Node.js • Express • REST APIs • SQL • MongoDB  
 **Engineering:** Docker • Linux/Unix • Shell • Git • GitHub Actions • Testing • Debugging
 
 ## Open Source
