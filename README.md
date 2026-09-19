@@ -12,13 +12,15 @@ I build reliable software, reproducible development environments, and evaluation
 - **Web Development:** React, Node.js, Express, SQL and MongoDB
 - **Problem Solving:** debugging, test design, edge-case analysis and competitive programming
 
+## Featured Engineering Project
+
+### [Agent Evaluation Lab](https://github.com/adityasupag1/agent-evaluation-lab)
+
+A deterministic Python benchmark harness for command-line coding agents. It demonstrates behavior-based evaluation, process timeouts, stdout/stderr and file assertions, JSON reporting, pytest coverage, Docker reproducibility, path-safety checks, and GitHub Actions matrix CI.
+
 ## What I'm Working On
 
 I'm especially interested in open-source engineering, difficult debugging problems, developer tooling, AI evaluation infrastructure, and systems where correctness can be verified with strong automated tests.
-
-## Selected Work
-
-I'm currently strengthening this profile around production-quality engineering projects with clear documentation, automated tests, CI, and reproducible environments. Check the pinned repositories below for the projects I consider most representative of my work.
 
 ## Tech Stack
 
