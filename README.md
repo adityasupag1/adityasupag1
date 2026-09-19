@@ -1,57 +1,43 @@
-## Hi there 👋
+# Aditya Raj
 
-<!--
-**adityasupag1/adityasupag1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Python • AI Evaluation • Docker • Full-Stack**
 
-Here are some ideas to get you started:
+I build reliable software, reproducible development environments, and evaluation workflows for AI and software systems. My work spans Python, C++, JavaScript, Linux/Unix, Docker, testing and debugging, AI evaluation, and full-stack development.
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-🛠️ I am a Full-Stack Developer currently building a scalable healthcare portal that connects patients, doctors, and diagnostic labs using React, Node.js, and SQL.
-<br>
-🏥 The platform focuses on real-world use cases such as doctor discovery, appointment booking, lab report access, and secure data flow between stakeholders.
-<br>
-🚀 I enjoy working on end-to-end web applications, from designing clean React user interfaces to building robust REST APIs and backend logic.
-<br>
-🤝 Open to collaborating on production-level web applications, especially projects involving React, backend systems, and real-world problem solving.
-<br>
-💬 Ask me about full-stack development, REST APIs, backend architecture, or competitive programming.
-<br>
-⚡ Fun fact: I started coding out of curiosity, and today I’m building real-world applications used in practical domains like healthcare.
-<br><br>
+## Engineering Focus
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+- **Software Engineering:** Python, C++, JavaScript, REST APIs, backend systems
+- **AI Evaluation:** coding and reasoning evaluation, deterministic testing, quality assurance
+- **Developer Infrastructure:** Docker, Linux/Unix, shell scripting, reproducible environments
+- **Web Development:** React, Node.js, Express, SQL and MongoDB
+- **Problem Solving:** debugging, test design, edge-case analysis and competitive programming
 
+## What I'm Working On
 
+I'm especially interested in open-source engineering, difficult debugging problems, developer tooling, AI evaluation infrastructure, and systems where correctness can be verified with strong automated tests.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditya.supagyk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-raj-44b375259) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:araj15397@gmail.com) 
+## Selected Work
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adityasupag1&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adityasupag1&theme=discord_old_blurple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasupag1&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm currently strengthening this profile around production-quality engineering projects with clear documentation, automated tests, CI, and reproducible environments. Check the pinned repositories below for the projects I consider most representative of my work.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adityasupag1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## Tech Stack
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adityasupag1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+**Languages:** Python • C++ • JavaScript • Java • C  
+**Backend & Web:** Node.js • Express • React • REST APIs • SQL • MongoDB  
+**Engineering:** Docker • Linux/Unix • Shell • Git • GitHub • Testing • Debugging  
+**AI:** AI Evaluation • RLHF-style Evaluation • Data Annotation • Model Quality Analysis
+
+## Open Source
+
+I'm open to contributing to projects involving Python, developer tooling, testing infrastructure, backend systems, AI evaluation, and challenging bug fixes.
+
+## Connect
+
+- **Portfolio:** http://aditya-raj-iiitbh.vercel.app/
+- **LinkedIn:** https://www.linkedin.com/in/aditya-raj-44b375259/
+- **GitHub:** https://github.com/adityasupag1/
+- **Email:** araj15397@gmail.com
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adityasupag1&icon=4&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityasupag1) 
-
-
+> I value reproducible results, clear engineering decisions, and tests that verify behavior rather than implementation details.
