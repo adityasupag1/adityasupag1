@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="200" viewBox="0 0 820 200" role="img" aria-label="Aditya Raj's GitHub stats">
+  <title>Aditya Raj's GitHub stats, including private work</title>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; }
+    .title { font-size: 18px; font-weight: 700; fill: #a78bfa; }
+    .note { font-size: 11px; fill: #8b949e; }
+    .label { font-size: 12px; font-weight: 600; fill: #c9d1d9; }
+    .value { font-size: 30px; font-weight: 800; }
+    .sub { font-size: 11px; fill: #8b949e; }
+    .tile { opacity: 0; animation: rise .7s ease-out forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+  </style>
+  <rect width="820" height="200" rx="14" fill="#0d1117"/>
+  <text x="26" y="40" class="title">Aditya Raj's GitHub Stats</text>
+  <text x="794" y="40" class="note" text-anchor="end">incl. private work · updated 26 Nov 2026</text>
+
+  <g class="tile" style="animation-delay:0.15s">
+    <rect x="26" y="64" width="182" height="108" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="26" y="64" width="4" height="108" rx="2" fill="#a78bfa"/>
+    <text x="44" y="92" class="label">Total Contributions</text>
+    <text x="44" y="134" class="value" fill="#a78bfa">11,158</text>
+    <text x="44" y="156" class="sub">all time</text>
+  </g>
+  <g class="tile" style="animation-delay:0.30s">
+    <rect x="222" y="64" width="182" height="108" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="222" y="64" width="4" height="108" rx="2" fill="#38bdf8"/>
+    <text x="240" y="92" class="label">Last 12 Months</text>
+    <text x="240" y="134" class="value" fill="#38bdf8">10,919</text>
+    <text x="240" y="156" class="sub">contributions</text>
+  </g>
+  <g class="tile" style="animation-delay:0.45s">
+    <rect x="418" y="64" width="182" height="108" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="418" y="64" width="4" height="108" rx="2" fill="#f472b6"/>
+    <text x="436" y="92" class="label">Pull Requests</text>
+    <text x="436" y="134" class="value" fill="#f472b6">397</text>
+    <text x="436" y="156" class="sub">386 merged</text>
+  </g>
+  <g class="tile" style="animation-delay:0.60s">
+    <rect x="614" y="64" width="182" height="108" rx="12" fill="#161b22" stroke="#30363d"/>
+    <rect x="614" y="64" width="4" height="108" rx="2" fill="#34d399"/>
+    <text x="632" y="92" class="label">Repositories</text>
+    <text x="632" y="134" class="value" fill="#34d399">76</text>
+    <text x="632" y="156" class="sub">contributed to 52</text>
+  </g>
+</svg>
