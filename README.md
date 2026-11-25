@@ -139,10 +139,6 @@ AI-powered background removal app with Firebase auth, API integration and a resp
   <img height="170" src="https://streak-stats.demolab.com/?user=adityasupag1&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&ring=a78bfa&fire=38bdf8&currStreakLabel=a78bfa" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityasupag1&bg_color=0d1117&color=a78bfa&line=38bdf8&point=ffffff&area=true&area_color=7c3aed&hide_border=true&radius=12" alt="Contribution activity graph" />
-</p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
