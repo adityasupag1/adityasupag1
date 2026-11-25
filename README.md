@@ -81,30 +81,6 @@ FastAPI service that turns plain-English questions into **validated, read-only P
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 [JobVerse](https://github.com/adityasupag1/Job-Verse-Application)
-Full-stack MERN job portal with JWT auth, role-based access, admin workflows and Cloudinary uploads.
-**[Live demo →](https://job-verse-frontend.vercel.app/)**
-
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🖼️ [Image Background Remover](https://github.com/adityasupag1/Image-Background-Remover)
-AI-powered background removal app with Firebase auth, API integration and a responsive React UI.
-**[Live demo →](https://new-image-background-remover.netlify.app/)**
-
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-</td>
-</tr>
 </table>
 
 ## 🛠️ Tech Stack
