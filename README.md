@@ -111,7 +111,10 @@ FastAPI service that turns plain-English questions into **validated, read-only P
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adityasupag1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9" alt="GitHub stats" />
+  <img width="100%" src="https://raw.githubusercontent.com/adityasupag1/adityasupag1/stats/github-stats.svg" alt="GitHub stats including private work" />
+</p>
+
+<p align="center">
   <img height="170" src="https://streak-stats.demolab.com/?user=adityasupag1&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&ring=a78bfa&fire=38bdf8&currStreakLabel=a78bfa" alt="GitHub streak" />
 </p>
 

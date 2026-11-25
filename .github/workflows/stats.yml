@@ -1,0 +1,48 @@
+name: Update stats card
+
+on:
+  schedule:
+    - cron: "30 */6 * * *" # every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/stats_card.py
+      - .github/workflows/stats.yml
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check token
+        id: token
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          if [ -z "$METRICS_TOKEN" ]; then
+            echo "::warning::METRICS_TOKEN secret is not set; skipping stats card update."
+            echo "present=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "present=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Generate card
+        if: steps.token.outputs.present == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: python scripts/stats_card.py dist/github-stats.svg
+
+      - name: Publish to stats branch
+        if: steps.token.outputs.present == 'true'
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: stats
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
